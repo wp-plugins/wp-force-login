@@ -1,6 +1,7 @@
 === Force Login ===
 Contributors: kevinvess
-Tags: force user login, login, private, privacy, protected, hidden
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kevin%40vess%2eme&lc=US&item_name=Kevin%20Vess%20-%20WordPress&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+Tags: access, closed, force user login, hidden, login, password, privacy, private, protected, registered only, restricted
 Requires at least: 3.6
 Tested up to: 4.0
 Stable tag: 1.2
